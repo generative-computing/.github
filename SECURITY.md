@@ -3,9 +3,7 @@
 ## Reporting a Vulnerability
 
 To report vulnerabilities, you can privately report a potential security issue
-via the GitHub security vulnerabilities feature. This can be done here:
-
-https://github.com/generative-computing/mellea/security/advisories
+via the GitHub security vulnerabilities feature.
 
 Please do **not** open a public issue about a potential security vulnerability.
 
