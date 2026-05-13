@@ -7,12 +7,12 @@ name: Scheduled Merge
 # Usage: add this line anywhere in the PR description:
 #   /schedule 2026-05-15
 #
-# Runs daily at 9–10am Eastern (10am EDT / 9am EST). Use workflow_dispatch to trigger immediately.
-
+# Will require setting a schedule on the Github Action in the repo, for example:
+#   on:
+#     schedule:
+#       - cron: '0 14 * * *'  # 10am EDT / 9am EST
 on:
-  schedule:
-    - cron: '0 14 * * *'  # 10am EDT / 9am EST
-  workflow_dispatch:
+  workflow_call: 
 
 permissions:
   contents: write
