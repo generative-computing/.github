@@ -1,6 +1,18 @@
-# This workflow uses pull_request_target, which grants write access to
-# the repo even for PRs from forks. This is safe ONLY because it never checks
-# out or executes code from the PR branch. Do NOT add:
+# Reusable workflow. Consumer repos wrap it with their own trigger workflow:
+#
+#   # .github/workflows/pr-label.yml in the consumer repo
+#   name: "Label PR by conventional commit prefix"
+#   on:
+#     pull_request_target:
+#       types: [opened, edited, synchronize]
+#     merge_group:
+#   jobs:
+#     label:
+#       uses: generative-computing/.github/.github/workflows/pr-label.yml@main
+#
+# The caller uses pull_request_target, which grants write access to the repo
+# even for PRs from forks. This is safe ONLY because this workflow never
+# checks out or executes code from the PR branch. Do NOT add:
 #   - actions/checkout (of the PR head ref)
 #   - run: steps that reference PR-controlled files
 #   - any step that executes code from the pull request
@@ -9,9 +21,7 @@
 name: "Label PR by conventional commit prefix"
 
 on:
-  pull_request_target: # zizmor: ignore[dangerous-triggers]
-    types: [opened, edited, synchronize]
-  merge_group:
+  workflow_call:
 
 jobs:
   label:
