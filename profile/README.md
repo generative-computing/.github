@@ -31,7 +31,7 @@ The general Mellea [Documentation](https://docs.mellea.ai/) is updated regularly
 **Learning Resources** provide in-depth educational material in comprehensive formats.
 
 - [Mellea Examples](https://github.com/generative-computing/mellea/tree/main/docs/examples) - comprehensive examples demonstrating Mellea's features and capabilities.
-[Mellea Demos](https://github.com/generative-computing/mellea-demos) - A collection of Mellea demos.
+- [Mellea Demos](https://github.com/generative-computing/mellea-demos) - A collection of Mellea demos.
 - [Mellea Tutorials](https://github.com/generative-computing/mellea-tutorials) - Long-form workshops and tutorials for Mellea. The main Mellea repo keeps its examples short and focused; the notebooks here have more room to walk through end-to-end workflows, conference material, and exploratory demos.
 
 ## Other Resources
