@@ -18,7 +18,7 @@ Skip to:
 * [Mellea Skills Compiler](https://github.com/generative-computing/mellea-skills-compiler)
 * [mellea-contribs](https://github.com/generative-computing/mellea-contribs)
 
-## Tools
+## Getting Started
 
 1. [Installation](https://docs.mellea.ai/getting-started/installation)
 2. [Quick Start](https://docs.mellea.ai/getting-started/quickstart)
