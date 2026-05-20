@@ -35,9 +35,9 @@ The general Mellea [Documentation](https://docs.mellea.ai/) is updated regularly
 - [Mellea Tutorials](https://github.com/generative-computing/mellea-tutorials) - Long-form workshops and tutorials for Mellea. The main Mellea repo keeps its examples short and focused; the notebooks here have more room to walk through end-to-end workflows, conference material, and exploratory demos.
 
 ## Other Resources
-- [Mellea Website:](https://mellea.ai/) More information about Mellea.
-- [Blog:](https://mellea.ai/blogs/) Deep-dives on agentic systems, generative computing, and the ideas behind Mellea.
-- [Mellea on PyPI:](https://pypi.org/project/mellea/) The Mellea organization on PyPI. You can download Mellea there.
+- [Mellea Website](https://mellea.ai/): More information about Mellea.
+- [Blog](https://mellea.ai/blogs/): Deep-dives on agentic systems, generative computing, and the ideas behind Mellea.
+- [Mellea on PyPI](https://pypi.org/project/mellea/): The Mellea organization on PyPI. You can download Mellea there.
 
 
 ## Discussion
