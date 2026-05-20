@@ -8,7 +8,7 @@ Mellea is a Python library for writing *generative programs* — replacing britt
 with structured, testable AI workflows built around type-annotated outputs, verifiable requirements, and automatic retries.
 
 Skip to:
-* [Code](#latest-projects)
+* [Projects](#latest-projects)
 * [Tools](#tools)
 * [Documentation](https://docs.mellea.ai/)
 
