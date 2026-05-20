@@ -9,7 +9,7 @@ with structured, testable AI workflows built around type-annotated outputs, veri
 
 Skip to:
 * [Projects](#latest-projects)
-* [Tools](#tools)
+* [Getting Started](#getting-started)
 * [Documentation](https://docs.mellea.ai/)
 
 ## Latest Projects
