@@ -13,10 +13,10 @@ Skip to:
 * [Documentation](https://docs.mellea.ai/)
 
 ## Latest Projects
-* <a href="https://github.com/generative-computing/mellea">Mellea</a>
-* <a href="https://github.com/generative-computing/granite-switch">Granite Switch</a>
-* <a href="https://github.com/generative-computing/mellea-skills-compiler">Mellea Skills Compiler</a>
-* <a href="https://github.com/generative-computing/mellea-contribs">mellea-contribs</a>
+* [Mellea](https://github.com/generative-computing/mellea)
+* [Granite Switch](https://github.com/generative-computing/granite-switch)
+* [Mellea Skills Compiler](https://github.com/generative-computing/mellea-skills-compiler)
+* [mellea-contribs](https://github.com/generative-computing/mellea-contribs)
 
 ## Tools
 
