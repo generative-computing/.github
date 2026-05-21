@@ -9,11 +9,6 @@ Silent failures. Untestable outputs. Unpredictable behavior.
 Mellea is a Python library for writing *generative programs* — replacing brittle prompts and flaky agents
 with structured, testable AI workflows built around type-annotated outputs, verifiable requirements, and automatic retries.
 
-Skip to:
-* [Projects](#latest-projects)
-* [Getting Started](#getting-started)
-* [Documentation](#documentation)
-
 ## Latest Projects
 * [Mellea](https://github.com/generative-computing/mellea)
 * [Granite Switch](https://github.com/generative-computing/granite-switch)
