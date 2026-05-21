@@ -2,7 +2,7 @@
 
 # Mellea — build predictable AI without guesswork
 
-**The problem with AI pipelines is always the same: the LLM itself**
+**The problem with AI pipelines is always the same: the LLM itself.**
 
 Silent failures. untestable outputs. Unpredictable behavior
 
