@@ -34,7 +34,7 @@ The general Mellea [Documentation](https://docs.mellea.ai/) is updated regularly
 ## Other Resources
 - [Mellea Website](https://mellea.ai/): More information about Mellea.
 - [Blog](https://mellea.ai/blogs/): Deep-dives on agentic systems, generative computing, and the ideas behind Mellea.
-- [Mellea on PyPI](https://pypi.org/project/mellea/): The Mellea organization on PyPI. You can download Mellea there.
+- [Mellea on PyPI](https://pypi.org/project/mellea/): Install with `pip install mellea`.
 
 
 ## Discussion
