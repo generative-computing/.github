@@ -45,7 +45,7 @@ jobs:
           for pr in $pr_numbers; do
             pr_json=$(gh pr view "$pr" --repo "$REPO" --json body,author,assignees)
             body=$(printf '%s' "$pr_json" | jq -r '.body')
-            scheduled=$(printf '%s' "$body" | grep -oP '(?<=/(remind|schedule) )[0-9]{4}-[0-9]{2}-[0-9]{2}' | head -1)
+            scheduled=$(printf '%s' "$body" | grep -oP '/(remind|schedule) \K[0-9]{4}-[0-9]{2}-[0-9]{2}' | head -1)
 
             [[ -z "$scheduled" ]] && continue
 
