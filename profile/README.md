@@ -14,6 +14,7 @@ with structured, testable AI workflows built around type-annotated outputs, veri
 * [Granite Switch](https://github.com/generative-computing/granite-switch)
 * [Mellea Skills Compiler](https://github.com/generative-computing/mellea-skills-compiler)
 * [mellea-contribs](https://github.com/generative-computing/mellea-contribs)
+* [LLM Object Notation (LLMON)](https://github.com/generative-computing/llmon)
 
 ## Getting Started
 
